@@ -87,11 +87,13 @@ header {
 	font-family: 'Titillium Web', sans-serif;
 	display: flex;
 	width: 100px;
+	border: 1px solid black;
+
 }
 
 p {
 	width: 100px;
-	
+
 }
 
 .some-fact {
